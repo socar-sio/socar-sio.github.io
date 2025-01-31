@@ -272,3 +272,11 @@ kain:
   position: Common Resource팀 프론트엔드 개발자
   introduction: 쏘카의 Common Resource팀에서 프론트엔드 개발을 하고 있습니다.
 
+
+bennett:
+  name: bennett
+  image: '/assets/authors/bennett.png'
+  position: 데이터 엔지니어
+  introduction: 쏘카에서 데이터 엔지니어링 업무를 하고 있습니다.
+  links:
+    linkedin: 'https://www.linkedin.com/in/jinhyung-park-hayden/'
