@@ -280,3 +280,11 @@ bennett:
   introduction: 쏘카에서 데이터 엔지니어링 업무를 하고 있습니다.
   links:
     linkedin: 'https://www.linkedin.com/in/jinhyung-park-hayden/'
+
+rudy:
+  name: 루디
+  image: '/assets/authors/rudy.png'
+  position: 데이터 엔지니어
+  introduction: 쏘카에서 데이터 엔지니어링 업무를 하고 있습니다.
+  links:
+    linkedin: 'https://www.linkedin.com/in/yangseunghyeon/'
