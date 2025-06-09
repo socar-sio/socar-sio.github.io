@@ -2,7 +2,7 @@
 layout: post
 title:  "자동화는 처음이라: 실험과 실패, 그리고 성장"
 subtitle: 테스트 자동화를 둘러싼 시행착오와 그럼에도 해볼만 했던 이유
-date: 2025-06-10 00:00:00 +0900
+date: 2025-06-09 00:00:00 +0900
 category: qa
 background: '/img/2025-06-02-qa-automation-environment/background.jpg' 
 author: sio
