@@ -292,7 +292,7 @@ rudy:
 sio:
   name: 시오
   image: '/assets/authors/sio.png'
-  position: QA 매니저
+  position: QA Manager
   introduction: 테스트 전략과 자동화에 진심이며 서비스 품질 향상을 위해 고민하는 QA입니다.
   links:
     linkedin: 'https://www.linkedin.com/in/jiye-jeon-40a813254/'
